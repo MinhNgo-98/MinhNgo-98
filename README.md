@@ -1,16 +1,34 @@
-### Hi there 👋
+# About me
 
-<!--
-**MinhNgo-98/MinhNgo-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hello, Minh here 
 
-Here are some ideas to get you started:
+- 🎓 I’m currently studying Computer Science & Media at HTW Dresden.
+- 🌱 I’m learning React and Django and plan to add Node.js and MongoDB to my skills.
+- 💼 I’m looking forward to become a Full Stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 My Skills
+#### Main Languages
+- HTML, CSS
+- JavaScript
+- Python  
+
+#### Languages learned in University
+- C, C++, C#
+- Java
+- MySQL  
+
+### Main Frameworks
+- Vue.js
+- React.js
+- Django
+- CSS-Frameworks: Bootstrap, Tailwind  
+
+### Tools I work with
+- Git/Github
+- Static Site Generators:
+  - Gridsome
+  - Hugo
+  - Jekyll
+  - Gatsby
+- Figma
+- Netlify
