@@ -7,13 +7,13 @@
 - 💼 I’m looking forward to become a Full Stack Developer.
 
 ## 💻 My Skills
-#### Main Languages
+### Main Languages
 [<img height="50" width="50" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">](https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor)
 [<img height="50" width="50" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">](https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor)
 [<img height="50" width="50" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">](https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor)
 [<img height="50" width="50" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">](https://icongr.am/devicon/python-original.svg?size=128&color=currentColor)
 
-#### Languages learned in University
+### Languages learned in University
 [<img height="50" width="50" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">](https://icongr.am/devicon/c-original.svg?size=128&color=currentColor)
 [<img height="50" width="50" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">](https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor)
 [<img height="50" width="50" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">](https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor)
