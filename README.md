@@ -1,6 +1,6 @@
 # About me
 
-### 👋 Hello, Minh here 
+## Hello there 👋
 
 - 🎓 I’m currently studying Computer Science & Media at HTW Dresden.
 - 🌱 I’m learning React and Django and plan to add Node.js and MongoDB to my skills.
