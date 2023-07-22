@@ -1,6 +1,4 @@
-# About me
-
-## 👋 Hello, I'm [Your Name]
+## 👋 Hello, I'm Minh
 
 As a dedicated Full Stack Developer, I am passionate about creating exceptional web experiences using cutting-edge technologies. My expertise lies in both frontend and backend development, with a strong focus on Vue.js and Node.js.
 
